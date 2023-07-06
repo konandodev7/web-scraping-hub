@@ -8,7 +8,7 @@ Followings are websites that I have scrapped.
 - ***Konandodev7***
 
 ### Contact Me
-- maximgregori2811@gmail.com
+- maxzvarych2811@gmail.com
 
 ### Description: 
 The source files are in **./sites** folder.
