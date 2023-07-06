@@ -5,15 +5,17 @@ Followings are websites that I have scrapped.
 - Aisa
 
 ### Author
-Konandodev7
+- ***Konandodev7***
 
 ### Contact Me
-maximgregori2811@gmail.com
+- maximgregori2811@gmail.com
 
 ### Description: 
 The source files are in **./sites** folder.
 
+I will explain scrapped websites below.
 
+--- 
 # Walmart
 ### SiteURL: 
 `https://walmart.com`
@@ -26,7 +28,7 @@ The source files are in **./sites** folder.
 07/05/2023
 
 ### Author:
-Konandodev7
+***Konandodev7***
 
 ###  Description: 
 I have scrapped US computers list and details from the shop.
@@ -42,28 +44,28 @@ I have scrapped US computers list and details from the shop.
     Seller: Walmart.com
     Description: Hewlett Packard Hp Stream 14\" Cel 4/64 W/ M365 Sub
 
-
+---
 # ACORNS International School
-### SiteURL: 
+## SiteURL: 
 `https://aisa.or.ke/`
 
-### Scraping URL:
+## Scraping URL:
 
-URL:  `https://aisa.or.ke/aisa-member-schools/`
+`https://aisa.or.ke/aisa-member-schools/`
 
-### Date: 
+## Date: 
 07/06/2023
 
-### Author:
-Konandodev7
+## Author:
+***Konandodev7***
 
-###  Description: 
+##  Description: 
 I have scrapped schools' detail information listed on Aisa Website.
 
 Finally, the details are saved in .csv file.
 
 
-### Example:
+## Example:
          Title: Acorns International School
            URL: https://aisa.or.ke/member-schools/acorns-international-school/
         Header: Ameena Lalani

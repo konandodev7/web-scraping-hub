@@ -20,8 +20,6 @@ headers = {
     'upgrade-insecure-requests': '1',
     'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36',
 }
-proxy="47.98.219.185:8999"
-# proxy="186.121.235.66:8080"
 
 response = requests.get('https://www.walmart.com/search?q=laptop', headers=headers)
 
